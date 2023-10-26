@@ -8,3 +8,9 @@ Container image with some useful utilities for OCP Pipeline
 * jq
 * git
 * kubesplit
+
+You can pull the image from the link below:
+
+```
+quay.io/rh_rh/pipeline-utils:latest
+```
