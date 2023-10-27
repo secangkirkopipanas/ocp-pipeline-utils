@@ -2,11 +2,13 @@
 
 Container image with some useful utilities for OCP Pipeline
 
-* wget
+* curl
 * zip
 * yq
 * jq
 * git
+* pip3
+* skopeo
 * kubesplit
 
 You can pull the image from the link below:
